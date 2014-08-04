@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Starting wwith JJekyll"
+title: "Starting with Jekyll"
 description: ""
 category: 
 tags: []
